@@ -1,0 +1,29 @@
+span{
+  color: red;
+}
+
+ion-content {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+
+.conteudo {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 330px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
